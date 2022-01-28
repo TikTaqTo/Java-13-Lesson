@@ -1,0 +1,15 @@
+
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(ééÑ÷üÿÿÿÿ8şªŞé/
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(Œ»œ£üÿÿÿÿ8ª²¬Şé/
+f
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+n
+java:S1104"SMake surname a static final constant or non-public and provide accessors if needed.(ÅÇÏ•úÿÿÿÿ
+n
+java:S1104"SMake balance a static final constant or non-public and provide accessors if needed.(Ã—ãüûÿÿÿÿ
+t
+java:S1104	"YMake accountNumber a static final constant or non-public and provide accessors if needed.(æã¯’ûÿÿÿÿ
+n
+java:S1104
+"SMake pinCode a static final constant or non-public and provide accessors if needed.(üüã²üÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùæñÃûÿÿÿÿ

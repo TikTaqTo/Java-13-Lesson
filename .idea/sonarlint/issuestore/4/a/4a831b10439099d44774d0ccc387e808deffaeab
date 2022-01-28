@@ -1,0 +1,32 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(Çµí‘
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤û¿„þÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(®Á™Ý
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Š¢Ëý
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ôäñ¢úÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(Æõ¡ç
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(ºáýŸ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(‰ø‡’
+M	java:S106&"9Replace this use of System.out or System.err by a logger.(Îöì(
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(Ðæê½
+<	java:S131+""Add a default case to this switch.(Ÿöÿöýÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(è¹ÅÑ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(ƒ·ÿ¡úÿÿÿÿ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(œ‚­¤
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(úýÌ‰ùÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(—Šû”üÿÿÿÿ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(øŠº
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(ôäñ¢úÿÿÿÿ
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(Æõ¡ç
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(åŒ»
+7	java:S131M""Add a default case to this switch.(‘ž ß
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(è¹ÅÑ
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(ƒ·ÿ¡úÿÿÿÿ
+N	java:S106U"9Replace this use of System.out or System.err by a logger.(íº²ð
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(–›Ö¬üÿÿÿÿ
+n	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.( ‡Õ
+a
+java:S1301M"KReplace this "switch" statement by "if" statements to increase readability.(‘ž ß
+=
+java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
